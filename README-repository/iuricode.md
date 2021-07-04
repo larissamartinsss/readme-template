@@ -74,7 +74,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/77865765?v=4" width="100px;" alt="Foto de Larissa Martins no GitHub"/><br>
         <sub>
           <b>Iuri Silva</b>
         </sub>
